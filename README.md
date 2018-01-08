@@ -1,1 +1,2 @@
-# naive_bayes-for-spam_data
+# naive_bayes-for-spam_data (Functional Programming)
+This naive bayes classifier is for the [spam dataset](https://www.kaggle.com/uciml/sms-spam-collection-dataset). I use N-grams instead of counting individual words.
